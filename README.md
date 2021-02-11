@@ -19,6 +19,7 @@ Meanwhile, the library is not available with pip install. Download the two files
 * [Tensorflow 2.x.x](https://www.tensorflow.org/install)
 * [NumPy](https://numpy.org/install/)
 * [Matplotlib](https://matplotlib.org/users/installing.html)
+* [SciPy](https://www.scipy.org/)
 * [tqdm](https://github.com/tqdm/tqdm) - optional
 
 ## Usage
